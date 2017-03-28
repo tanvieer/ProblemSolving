@@ -1,0 +1,31 @@
+﻿Build started 17/05/2014 14:40:22.
+     1>Project "E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\word shuffle\word shuffle.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\word shuffle.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\installed soft\Visual studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "word shuffle.cpp"
+         word shuffle.cpp
+     1>e:\little buddy 15.5.14\new folder\pl codes\word shuffle\word shuffle\word shuffle.cpp(7): warning C4101: 'k' : unreferenced local variable
+     1>e:\little buddy 15.5.14\new folder\pl codes\word shuffle\word shuffle\word shuffle.cpp(6): warning C4101: 'c' : unreferenced local variable
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\word shuffle.exe.embed.manifest.res" "Debug\word shuffle_manifest.rc" 
+       Link:
+         D:\installed soft\Visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\word shuffle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.lib" /MACHINE:X86 "Debug\word shuffle.exe.embed.manifest.res"
+         "Debug\word shuffle.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\word shuffle.exe.embed.manifest" /manifest "Debug\word shuffle.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\word shuffle.exe.embed.manifest.res" "Debug\word shuffle_manifest.rc" 
+       LinkEmbedManifest:
+         D:\installed soft\Visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\word shuffle.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.lib" /MACHINE:X86 "Debug\word shuffle.exe.embed.manifest.res"
+         "Debug\word shuffle.obj"
+         word shuffle.vcxproj -> E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\Debug\word shuffle.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\word shuffle.unsuccessfulbuild".
+         Touching "Debug\word shuffle.lastbuildstate".
+     1>Done Building Project "E:\Little Buddy 15.5.14\New folder\pl codes\word shuffle\word shuffle\word shuffle.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.37

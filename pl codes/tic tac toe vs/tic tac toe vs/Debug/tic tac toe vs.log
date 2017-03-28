@@ -1,0 +1,17 @@
+﻿Build started 11/05/2014 08:18:12.
+     1>Project "E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\tic tac toe vs\tic tac toe vs.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\tic tac toe vs.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\installed soft\Visual studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\Debug\tic tac toe vs.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tic tac toe vs.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\Debug\tic tac toe vs.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\Debug\tic tac toe vs.lib" /MACHINE:X86 "Debug\tic tac toe vs.exe.embed.manifest.res"
+         "Debug\tic tac toe vs.obj"
+     1>LINK : fatal error LNK1201: error writing to program database 'E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\Debug\tic tac toe vs.pdb'; check for insufficient disk space, invalid path, or insufficient privilege
+     1>Done Building Project "E:\Little Buddy 15.5.14\New folder\pl codes\tic tac toe vs\tic tac toe vs\tic tac toe vs.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.52
