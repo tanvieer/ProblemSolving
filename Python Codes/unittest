@@ -1,0 +1,23 @@
+class Phonebook:
+    def __init__(self):
+        self.entries={}
+    
+    def add(self,name,number):
+        self.entries[name] = number
+
+    def lookup(self,name):
+        return entries[name]
+
+import unittest
+
+#from Phonebook import Phonebook
+
+class PhonebookTest(unittest.TestCase):
+
+    def test_creat_phonebook(self):
+        phonebook =Phonebook()
+
+    def test_lookup_entry_by_name(self):
+        phonebok = Phonebook()
+        phonebook.add("Bob","12345")
+        self.assertEqual("12345",phonebook.lookup("Bob"))
